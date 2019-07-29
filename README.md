@@ -1,4 +1,4 @@
-# Granule CQRS
+# Capsular Action
 
 [![Build Status](https://travis-ci.org/granulephp/cqrs.svg?branch=master)](https://travis-ci.org/granulephp/cqrs)
 [![Latest Stable Version](https://poser.pugx.org/granulephp/cqrs/v/stable.png)](https://packagist.org/packages/granulephp/cqrs)

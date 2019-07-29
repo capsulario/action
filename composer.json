@@ -1,0 +1,17 @@
+{
+    "name": "capsular/action",
+    "description": "Capsular Procedure Execution",
+    "type": "library",
+    "keywords": ["rpc","cqs","cqrs","command"],
+    "require": {
+        "phpunit/phpunit": "^8.3@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eugene Bogachov",
+            "email": "eugene.bogachov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
